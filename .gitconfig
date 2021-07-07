@@ -1,0 +1,10 @@
+[user]
+	name = Josh Larson
+	email = jplhomer@gmail.com
+[init]
+	defaultBranch = main
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
